@@ -1,2 +1,3 @@
 # dayting_discord_bot
 this bot is copy dayvinschik from telegram. i tried create data base, functional, and design.
+for use this bot you must paste your token in variable "discord_token" in main.py and paste your way to this bots in variables "your_way" who locate "main.py" and "databace.py", format "D:\\folder_with_this_bot". for start you must download pip discord.py. Start file main.py, and write in direct or chat with this bot "!start" if you can other questions you can send message for me on telegram: @fks_s, or on my email: golovcenkoartem29@gmail.com. i hope this bot help other people in people's projects
